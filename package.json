@@ -1,0 +1,19 @@
+{
+  "name": "Automation_Challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:diegomera84/Playwright_example.git",
+  "author": "Diego Mera <diego.mera84@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  },
+  "scripts": {
+    "test:e2e": "yarn playwright test",
+    "start:script": "node"
+  },
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
