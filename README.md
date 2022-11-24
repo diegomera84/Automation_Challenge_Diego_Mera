@@ -1,4 +1,4 @@
-# Playwright_example
+# Automation Challenge for Southerncode
 
 Here you will find automated tests implemented with playwright and JavaScript.
 
